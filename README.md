@@ -1,4 +1,4 @@
-# Watuku
+# Mineral_Model For Application Watuku
 ### this is program for watuku apps tensorflow model
 
 [![Build Status](https://img.shields.io/badge/Platform-Tensor%20Flow-orange?style=flat&logo=TensorFlow)](https://www.tensorflow.org/)
